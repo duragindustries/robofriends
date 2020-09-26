@@ -34,7 +34,7 @@ class App extends Component {
 		} else {
 			return (
 				<div className='tc'>
-					<h1 className='f1'>ROBOFRIENDS</h1>
+					<h1 className='f1'>ROBOFRIENDS2</h1>
 					<SearchBox searchChange={this.onSearchChange}/>
 					<Scroll>
 						<ErrorBoundary>
